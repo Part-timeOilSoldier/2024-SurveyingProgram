@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\bin\Debug\ZHDuanMianApp1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\bin\Debug\ZHDuanMianApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\bin\Debug\ZHDuanMianApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\obj\Debug\ZHDuanMianApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\obj\Debug\ZHDuanMianApp1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\obj\Debug\ZHDuanMianApp1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\obj\Debug\ZHDuanMianApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\obj\Debug\ZHDuanMianApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\obj\Debug\ZHDuanMianApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDuanMian\ZHDuanMianApp1\obj\Debug\ZHDuanMianApp1.pdb

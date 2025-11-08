@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\obj\Debug\GeoLineApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\obj\Debug\GeoLineApp1.Form1.resources
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\obj\Debug\GeoLineApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\obj\Debug\GeoLineApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\obj\Debug\GeoLineApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\bin\Debug\GeoLineApp1.exe.config
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\bin\Debug\GeoLineApp1.exe
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\bin\Debug\GeoLineApp1.pdb
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\obj\Debug\GeoLineApp1.exe
+C:\Users\Administrator\Desktop\GeoLine\GeoLineApp1\obj\Debug\GeoLineApp1.pdb

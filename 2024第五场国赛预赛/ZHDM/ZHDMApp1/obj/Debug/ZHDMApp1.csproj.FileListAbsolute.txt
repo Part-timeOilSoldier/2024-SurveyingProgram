@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\bin\Debug\ZHDMApp1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\bin\Debug\ZHDMApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\bin\Debug\ZHDMApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\obj\Debug\ZHDMApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\obj\Debug\ZHDMApp1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\obj\Debug\ZHDMApp1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\obj\Debug\ZHDMApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\obj\Debug\ZHDMApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\obj\Debug\ZHDMApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ZHDM\ZHDMApp1\obj\Debug\ZHDMApp1.pdb
