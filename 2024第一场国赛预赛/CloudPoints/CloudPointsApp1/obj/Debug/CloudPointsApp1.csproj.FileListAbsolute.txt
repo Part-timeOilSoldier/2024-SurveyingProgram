@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\bin\Debug\CloudPointsApp1.exe.config
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\bin\Debug\CloudPointsApp1.exe
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\bin\Debug\CloudPointsApp1.pdb
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\obj\Debug\CloudPointsApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\obj\Debug\CloudPointsApp1.Form1.resources
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\obj\Debug\CloudPointsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\obj\Debug\CloudPointsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\obj\Debug\CloudPointsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\obj\Debug\CloudPointsApp1.exe
+C:\Users\Administrator\Desktop\CloudPoints\CloudPointsApp1\obj\Debug\CloudPointsApp1.pdb
